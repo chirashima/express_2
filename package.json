@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"  
+  },
+  "name": "express_2",
+  "description": "![Hogwarts](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F38.media.tumblr.com%2Ff87f45a928d19394f4e1c20e1ce3fe69%2Ftumblr_nb7g7nSAEv1qgxmqno1_500.gif&f=1&nofb=1)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
